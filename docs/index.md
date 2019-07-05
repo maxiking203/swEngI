@@ -35,4 +35,4 @@ Außerdem soll unsere Anwendung mögliche Kontakte bereitstellen um es interessi
 ## Links<br>
 * [Webapp](http://tg1a-2.herokuapp.com)
 
-![Mission Complete]https://github.com/maxiking203/swEngI/blob/master/docs/complete.jpg)
+![Mission Complete](https://github.com/maxiking203/swEngI/blob/master/docs/complete.jpg)
