@@ -1,7 +1,7 @@
 # TG1A-2 ACTIVITY METER
 
 
-![](https://github.com/maxiking203/swEngI/master/doc/Screenshot_Seite.JPG)
+![](https://github.com/maxiking203/swEngI/blob/master/doc/Screenshot_Seite.JPG)
 
 
 ## Systemidee<br>
@@ -14,25 +14,25 @@ Das Schlüsselfeature des Activity Meters ist die Visualisierung der stattfinden
 Außerdem soll unsere Anwendung mögliche Kontakte bereitstellen um es interessierten Hochschulangehörigen zu erleichtern einen Ansprechpartner zu finden um sich weiter über die Partnerschaft und dadurch enstehende Möglichkeiten zu informieren.<br>
 
 ## Anwendungsfälle
-![Anwendungsfälle Doggie](https://github.com/maxiking203/swEngI269d49376099fbc1b8dcc8ba1c08ac1b51d30cfc/docs/use%20cases.jpg)
+![Anwendungsfälle Doggie](https://github.com/maxiking203/swEngI/blob/master/docs/use%20cases.jpg)
 
 ## Fachklassen
 
 ## Meet the Team
-![What's Gonna Work? TEAMWORK!!!!](https://github.com/maxiking203/swEngI/master/docs/frontback.jpg)
+![What's Gonna Work? TEAMWORK!!!!](https://github.com/maxiking203/swEngI/blob/master/docs/frontback.jpg)
 
 ## Toolchain
 ### Sonarqube
-![Coverage](https://github.com/maxiking203/swEngI/master/docs/coverage.jpg)
+![Coverage](https://github.com/maxiking203/swEngI/blob/master/docs/coverage.jpg)
 
 ### Travis & Heroku
-![Travis](https://github.com/maxiking203/swEngI/master/docs/travis.jpg)
+![Travis](https://github.com/maxiking203/swEngI/blob/master/docs/travis.jpg)
 
 ## So much to do and so little time
-![Team Did Not Deliver](https://github.com/maxiking203/swEngI/master/docs/failure.jpg)
+![Team Did Not Deliver](https://github.com/maxiking203/swEngI/blob/master/docs/failure.jpg)
 
 
 ## Links<br>
 * [Webapp](http://tg1a-2.herokuapp.com)
 
-![Mission Complete](https://github.com/maxiking203/swEngI/master/docs/complete.jpg)
+![Mission Complete]https://github.com/maxiking203/swEngI/blob/master/docs/complete.jpg)
